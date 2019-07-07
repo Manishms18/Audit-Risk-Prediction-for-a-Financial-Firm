@@ -54,7 +54,7 @@ plt.show()
 ````
 ````
 
-# Using Grid Search to find the best parameters for kernelized SVM
+# Using Grid Search to find the best parameters for kernelized SVM method
 
 svr = SVR()
 
