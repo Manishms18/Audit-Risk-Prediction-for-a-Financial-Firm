@@ -6,6 +6,7 @@
 * [General info](#general-info)
 * [Technologies and Tools](#technologies-and-tools)
 * [Code Examples](#code-examples)
+* [Status](#status)
 * [Contact](#contact)
 
 ## General info
@@ -103,6 +104,10 @@ def plot_feature_importances(model):
 plot_feature_importances(tree)
 
 ````
+
+## Status
+Project is: _finished_.
+
 
 ## Contact
 Created by me with my teammate [Ashish Sharma](https://github.com/ashish1993utd)
